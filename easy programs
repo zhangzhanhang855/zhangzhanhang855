@@ -1,0 +1,14 @@
+#print text to the screen:
+print ("text")
+
+#use if to detect the limitations:
+if [limitation] :
+    [command]
+
+#set value to algebras:
+[algebra] == [int value]
+
+#print value(algebra) to the screen:
+print ([algebra])
+
+**#all of these are python knowledges.#**
