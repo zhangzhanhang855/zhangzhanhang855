@@ -1,0 +1,15 @@
+#json coding.
+
+a == 7
+b == 6
+c == a + b 
+print (c)
+
+
+minecraft json : [tellraw]
+
+tellraw @a {"rawtext":[{"text":"......"},{"score":{"name":"......","objective":"......"}},{"selector":"......"}]}
+
+#minecraft is a json-basically game.
+
+#the end
